@@ -1,0 +1,27 @@
+{
+  "name": "lodash-mapdeepfunctions",
+  "version": "0.0.1",
+  "description": "lodash mixing like `defaultsDeep` but for function transforms Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nucleardreamer/mapDeepFunctions.git"
+  },
+  "keywords": [
+    "lodash",
+    "lodash map",
+    "function map"
+  ],
+  "author": "Flynn Joffray <nucleardreamer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nucleardreamer/mapDeepFunctions/issues"
+  },
+  "homepage": "https://github.com/nucleardreamer/mapDeepFunctions#readme",
+  "dependencies": {
+    "lodash": "~4.17.4"
+  }
+}

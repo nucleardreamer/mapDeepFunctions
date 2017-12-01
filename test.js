@@ -1,15 +1,3 @@
-# mapDeepFunctions
-lodash mixing like `defaultsDeep` but for function transforms
-
-## Install
-
-```
-npm i lodash-mapdeepfunctions
-```
-
-## Usage
-
-```
 const _ = require('lodash')
 require(__dirname)
 
@@ -31,4 +19,3 @@ console.log(
     }
   })
 )
-```
