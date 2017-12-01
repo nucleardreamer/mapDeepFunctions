@@ -11,7 +11,7 @@ npm i lodash-mapdeepfunctions
 
 ```
 const _ = require('lodash')
-require(__dirname)
+_.mixin(require('lodash-mapdeepfunctions'))
 
 // create a model with functions
 const model = {

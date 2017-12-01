@@ -4,7 +4,7 @@
   "description": "lodash mixing like `defaultsDeep` but for function transforms Edit",
   "main": "index.js",
   "scripts": {
-    "test": "exit 0"
+    "test": "node_modules/.bin/tape test.js"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,8 @@
   "homepage": "https://github.com/nucleardreamer/mapDeepFunctions#readme",
   "dependencies": {
     "lodash": "~4.17.4"
+  },
+  "devDependencies": {
+    "tape": "~4.8.0"
   }
 }
