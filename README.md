@@ -1,5 +1,5 @@
 # mapDeepFunctions
-lodash mixing like `defaultsDeep` but for function transforms
+A lodash mixin like `defaultsDeep`, but for function transforms
 
 ## Install
 
